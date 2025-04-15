@@ -21,4 +21,4 @@ if (nivelDoTurnipBoy <= 1000) {
     nivel = "Radiante"
 }
 
-console.log("O Herói de nome " + turnipBoy + " " + "está no nível de " + nivel + " de " + nivelDoTurnipBoy + " XP.")
+console.log("O Herói de nome " + turnipBoy + " " + "está no nível de " + nivel + " de " + nivelDoTurnipBoy + " XP")
